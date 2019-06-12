@@ -1,0 +1,32 @@
+.post {
+  @include markdown-paragraph();
+  @include markdown-blockquote();
+  @include markdown-list();
+  @include markdown-headings();
+}
+
+.post-title {
+  margin-bottom: 1lh;
+}
+
+.post-teaser {
+  margin-bottom: $spacing-m;
+}
+
+.post-image {
+  img {
+    width: 100pr;
+    height: auto;
+  }
+}
+
+p.post-meta {
+  border: 1px dashed;
+  padding: 0.5lh;
+}
+
+.post-heading {
+  a:after {
+    content: ' ->';
+  }
+}

@@ -1,0 +1,16 @@
+<header row>
+  <hgroup class="masthead">
+    <h2 class="title">
+      <a href="/">{{ site.title }}</a>
+    </h2>
+    {% for item in site.menus.header %}
+      <li class="menu-item-{{ loop.index }}">
+        <a href="{{ item.url }}" title="Go to {{ item.title }}">{{ item.title }}</a>
+      </li>
+    {% endfor %}
+    {% comment %}<div class="avatar__wrap">
+      <img class="avatar" src="{{ site.logo }}" alt="avatar"/>
+    </div>{% endcomment %}
+  </hgroup>
+  <hr />
+</header>

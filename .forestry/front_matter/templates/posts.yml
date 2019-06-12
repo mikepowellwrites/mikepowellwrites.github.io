@@ -1,0 +1,9 @@
+---
+label: Posts
+hide_body: false
+fields:
+  - name: author
+    default: Mike Powell
+    label: Author
+    type: text
+    hidden: false

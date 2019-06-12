@@ -1,0 +1,10 @@
+
+<div row>
+  {% for post in site.posts %}
+    <div row class="post-teaser">
+      <div class="post-excerpt">
+        {{ post.content | markdownify }}
+      </div>
+    </div>
+  {% endfor %}
+</div>

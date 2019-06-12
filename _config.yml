@@ -1,0 +1,64 @@
+title: Mike Powell
+timezone: America/Phoenix
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+description: Mike Powell writes.
+url: https://mikepowellwrites.github.io
+author: Mike Powell
+logo: '/assets/images/avatar.jpg'
+destination: './_site'
+layouts_dir: _layouts
+data_dir: _data
+includes_dir: _includes
+encoding: utf-8
+markdown_ext: markdown,mkdown,mkdn,mkd,md
+exclude:
+  - vendor
+  - node_modules
+  - package.json
+  - Gemfile
+  - Gemfile.lock
+  - postcss.config.js
+  - rollup.config.js
+show_drafts:
+limit_posts: 0
+future: false
+unpublished: false
+baseurl: ''
+show_dir_listing: false
+permalink: pretty
+paginate_path: '/page:num'
+quiet: false
+verbose: false
+liquid:
+  error_mode: lax
+repository: mshick/mikepowellwrites.github.io
+plugins:
+  - jekyll-mentions
+  - jemoji
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-menus
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  input: GFM
+  hard_wrap: false
+compress_html:
+  ignore:
+    envs:
+      - development
+  blanklines: false
+  profile: false

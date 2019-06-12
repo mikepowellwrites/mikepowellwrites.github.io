@@ -1,0 +1,9 @@
+{% unless jekyll.environment == 'production' %}
+  {% assign base_url = '' %}
+{% else %}
+  {% if site.url %}
+    {% assign base_url = site.url | append: site.baseurl %}
+  {% else %}
+    {% assign base_url = site.github.url %}
+  {% endif %}
+{% endunless %}

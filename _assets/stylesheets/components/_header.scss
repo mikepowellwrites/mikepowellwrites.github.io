@@ -1,0 +1,46 @@
+header {
+  .masthead {
+    @include clearfix;
+  }
+
+  .title,
+  .avatar__wrap {
+    font-family: $font-primary;
+    display: block;
+    width: 100%;
+  }
+
+  .title {
+    font-size: typeScale(8);
+
+    a,
+    a:hover {
+      color: getColor(text, heading);
+    }
+  }
+
+  .avatar__wrap {
+    text-align: center;
+  }
+
+  hr {
+    margin: 0;
+  }
+
+  @media (--medium) {
+    .masthead {
+      width: 34rem;
+    }
+
+    .title,
+    .avatar__wrap {
+      display: inline-block;
+      width: auto;
+      float: left;
+    }
+
+    .avatar {
+      margin: 1.8rem 1rem;
+    }
+  }
+}
