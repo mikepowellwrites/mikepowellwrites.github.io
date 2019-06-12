@@ -23,6 +23,15 @@ header {
     text-align: center;
   }
 
+  .menu {
+    display: inline-block;
+    list-style: none;
+  }
+
+  .menu__item {
+    display: inline;
+  }
+
   hr {
     margin: 0;
   }

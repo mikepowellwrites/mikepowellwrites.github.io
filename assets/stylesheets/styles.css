@@ -867,6 +867,13 @@ header .title {
 header .avatar__wrap {
   text-align: center; }
 
+header .menu {
+  display: inline-block;
+  list-style: none; }
+
+header .menu__item {
+  display: inline; }
+
 header hr {
   margin: 0; }
 

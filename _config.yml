@@ -10,7 +10,7 @@ collections:
 description: Mike Powell writes.
 url: https://shick.us/mikepowellwrites.github.io
 author: Mike Powell
-logo: '/assets/images/avatar.jpg'
+logo: '/assets/images/avatar.png'
 destination: './_site'
 layouts_dir: _layouts
 data_dir: _data
