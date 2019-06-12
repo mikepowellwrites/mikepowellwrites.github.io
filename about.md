@@ -16,3 +16,5 @@ Hi. My name’s Mike Powell. I’m a freelance writer in Tucson, Arizona. I’ve
 As of November, 2016, I will be a columnist on the Paris Review’s website. I used to have a column at Pitchfork called “[Secondhands](https://pitchfork.com/features/secondhands/).” I also write a weekly column for the New York Times called “What You Get,” about real estate listings, and copywriting for Apple Music and iTunes.
 
 [Here](https://twitter.com/sternlunch) is my Twitter “presence.” Here is my email address: [revelatory@gmail.com](mailto:revelatory@gmail.com). Here is a picture of me thinking about my son.
+
+![]({{ site.baseurl }}/uploads/images/mike-beard.jpg)
