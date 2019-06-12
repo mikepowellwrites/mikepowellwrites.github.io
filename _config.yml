@@ -47,7 +47,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-gist
-  - jekyll-menus
 kramdown:
   auto_ids: true
   footnote_nr: 1

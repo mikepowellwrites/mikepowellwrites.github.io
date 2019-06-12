@@ -3,11 +3,20 @@
     <h2 class="title">
       <a href="/">{{ site.title }}</a>
     </h2>
-    {% for item in site.menus.header %}
+    <ul>
       <li class="menu-item-{{ loop.index }}">
-        <a href="{{ item.url }}" title="Go to {{ item.title }}">{{ item.title }}</a>
+        <a href="/" title="Go to Writings">Writings</a>
       </li>
-    {% endfor %}
+      <li>
+        <a href="/about" title="Go to About">About</a>
+      </li>
+      <li>
+        <a href="mailto:revelatory@gmail.com" title="Email Mike Powell">Email</a>
+      </li>
+      <li>
+        <a href="https://twitter.com/sternlunch" title="Twitter">Twitter</a>
+      </li>
+    </ul>
     {% comment %}<div class="avatar__wrap">
       <img class="avatar" src="{{ site.logo }}" alt="avatar"/>
     </div>{% endcomment %}
