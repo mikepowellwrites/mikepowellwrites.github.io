@@ -1,12 +1,12 @@
 ---
 title: Writings
-date: 2018-08-25 07:00:00 +0000
+date: 2018-08-25T07:00:00.000+00:00
 body_class: body--homepage
 excerpt: Mike Powell writes.
 layout: index
-menus:
+menu:
   header:
-    title: Writings
     identifier: writings
     weight: 1
+
 ---
