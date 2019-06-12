@@ -2,34 +2,28 @@
 label: Projects
 hide_body: false
 fields:
-  - name: title
-    default: TakeShape
-    label: Title
-    type: text
-    hidden: false
-  - name: date
-    default: '2016-08-13T02:45:00.000+00:00'
-    label: Date
-    type: datetime
-    hidden: false
-  - name: layout
-    default: post
-    label: Layout
-    type: text
-    hidden: false
-  - name: image
-    default: '/assets/images/slush-gh-pages.png'
-    label: Image
-    type: file
-    hidden: false
-  - name: author
-    default: Mike Powell
-    label: Author
-    type: text
-    hidden: false
-pages:
-  - _projects/static-stuff.md
-  - _projects/raf-ready.md
-  - _projects/takeshape.md
-  - _projects/hapi-postgraphile.md
-  - _projects/fester.md
+- name: title
+  default: TakeShape
+  label: Title
+  type: text
+  hidden: false
+- name: date
+  default: '2016-08-13T02:45:00.000+00:00'
+  label: Date
+  type: datetime
+  hidden: false
+- name: layout
+  default: post
+  label: Layout
+  type: text
+  hidden: false
+- name: image
+  default: "/assets/images/slush-gh-pages.png"
+  label: Image
+  type: file
+  hidden: false
+- name: author
+  default: Mike Powell
+  label: Author
+  type: text
+  hidden: false
