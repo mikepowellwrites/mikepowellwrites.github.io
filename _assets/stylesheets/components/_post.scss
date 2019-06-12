@@ -1,8 +1,8 @@
 .post {
-  @include markdown-paragraph();
-  @include markdown-blockquote();
-  @include markdown-list();
-  @include markdown-headings();
+  @include revelatory-paragraph();
+  @include revelatory-blockquote();
+  @include revelatory-list();
+  @include revelatory-headings();
 }
 
 .post-title {

@@ -1,6 +1,5 @@
 @charset "UTF-8";
-@import url("https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700");
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700");
+@import url("https://fonts.googleapis.com/css?family=Gentium+Book+Basic");
 /* stylelint-disable */
 /**
  * ConciseCSS v4.1.2
@@ -53,7 +52,7 @@ template,
 :root {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
-  font-family: "Source Code Pro", monospace;
+  font-family: "Gentium Book Basic", serif;
   line-height: 1.5;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
@@ -69,7 +68,7 @@ code,
 kbd,
 pre,
 samp {
-  font-family: "Source Code Pro", monospace;
+  font-family: "Gentium Book Basic", monospace;
   font-size: 0.83333rem;
   background-color: #f5f5f5; }
 
@@ -190,12 +189,12 @@ svg:not(:root) {
 a {
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
-  color: #c65146;
+  color: #f90404;
   text-decoration: none;
   -webkit-transition-duration: 150ms;
           transition-duration: 150ms; }
   a:hover, a:focus {
-    color: #7f2f27; }
+    color: #950202; }
 
 a:hover {
   outline-width: 0; }
@@ -288,7 +287,7 @@ input[type="range"] {
   input[type="range"]::range-thumb {
     border: none;
     border-radius: 50%;
-    background-color: #c65146;
+    background-color: #f90404;
     height: 0.75rem;
     margin-top: -0.225rem;
     width: 0.75rem; }
@@ -296,7 +295,7 @@ input[type="range"] {
     -webkit-appearance: none; }
 
 button, input[type="submit"] {
-  background-color: #c65146;
+  background-color: #f90404;
   border: none;
   color: white;
   cursor: pointer;
@@ -307,11 +306,11 @@ button, input[type="submit"] {
   transition: background-color 150ms;
   white-space: nowrap; }
   button:hover, input:hover[type="submit"], button:focus, input:focus[type="submit"] {
-    background-color: #cc6359;
+    background-color: #fb1b1b;
     text-decoration: none;
     outline: none; }
   button:active, input:active[type="submit"] {
-    background-color: #d2766d; }
+    background-color: #fc3434; }
   button[disabled], input[disabled][type="submit"] {
     background-color: #eee;
     cursor: not-allowed; }
@@ -388,7 +387,7 @@ h6 {
 
 h1, h2, h3, h4, h5, h6 {
   color: #222;
-  font-family: "Source Code Pro", monospace;
+  font-family: "Gentium Book Basic", serif;
   line-height: 1.3; }
   h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
     color: inherit;
@@ -400,7 +399,7 @@ h1, h2, h3 {
   h1 a, h2 a, h3 a {
     color: inherit; }
     h1 a:hover, h1 a:focus, h2 a:hover, h2 a:focus, h3 a:hover, h3 a:focus {
-      color: #c65146;
+      color: #f90404;
       text-decoration: none; }
 
 h4, h5, h6 {
@@ -759,14 +758,14 @@ table {
   :root {
     background-color: white;
     color: black;
-    font: 12pt/1.4 "Source Code Pro", monospace; }
+    font: 12pt/1.4 "Times New Roman", serif; }
   body {
     width: 100% !important;
     margin: 0 !important;
     padding: 0 !important; }
   h1, h2, h3, h4, h5, h6 {
     page-break-after: avoid;
-    font-family: "Source Code Pro", monospace; }
+    font-family: "Times New Roman", serif; }
   h1 {
     font-size: 19pt; }
   h2 {
@@ -836,28 +835,17 @@ table {
 body {
   font-weight: 300;
   font-style: normal;
-  font-family: "Source Code Pro", monospace;
+  font-family: "Gentium Book Basic", serif;
   color: #444; }
   body strong {
     font-weight: bold; }
   body hr {
-    position: relative;
-    height: 3rem;
-    font-size: 0;
-    line-height: 0;
-    overflow: hidden;
-    border: 0;
-    margin-bottom: 3rem;
-    background-color: transparent; }
-    body hr:after {
-      content: '======================================================================================================';
-      position: absolute;
-      top: 0;
-      left: 0;
-      font-size: 0.83333rem;
-      line-height: 1.875rem;
-      width: 100%;
-      white-space: nowrap; }
+    border: 0px;
+    height: 1px;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    color: #444;
+    background-color: #444; }
 
 header .masthead::after {
   clear: both;
@@ -866,7 +854,7 @@ header .masthead::after {
 
 header .title,
 header .avatar__wrap {
-  font-family: "Source Code Pro", monospace;
+  font-family: "Gentium Book Basic", serif;
   display: block;
   width: 100%; }
 
@@ -888,8 +876,7 @@ header hr {
   header .title,
   header .avatar__wrap {
     display: inline-block;
-    width: auto;
-    float: left; }
+    width: auto; }
   header .avatar {
     margin: 1.8rem 1rem; } }
 
@@ -946,7 +933,7 @@ header hr {
   .page h4,
   .page h5,
   .page h6 {
-    font-family: "Source Code Pro", monospace;
+    font-family: "Gentium Book Basic", serif;
     float: none;
     margin: 0;
     padding: 0; }
@@ -956,39 +943,14 @@ header hr {
     margin-bottom: 0;
     position: relative;
     display: inline-block;
-    display: table-cell;
-    padding: 0 0 3rem;
+    padding: 0 0 1.5rem;
     overflow: hidden; }
-    .page h1:after,
-    .page h2:after {
-      content: '-------------------------------------------------------------------------------------------------------';
-      position: absolute;
-      bottom: 1.5rem;
-      left: 0;
-      white-space: nowrap; }
-    .page h1 + *,
-    .page h2 + * {
-      margin-top: 0; }
   .page h3,
   .page h4,
   .page h5,
   .page h6 {
     position: relative;
     margin-bottom: 1.5rem; }
-    .page h3:before,
-    .page h4:before,
-    .page h5:before,
-    .page h6:before {
-      content: '## ';
-      display: inline; }
-  .page h3:before {
-    content: '### '; }
-  .page h4:before {
-    content: '#### '; }
-  .page h5:before {
-    content: '##### '; }
-  .page h6:before {
-    content: '###### '; }
 
 .post {
   word-wrap: break-word; }
@@ -1043,7 +1005,7 @@ header hr {
   .post h4,
   .post h5,
   .post h6 {
-    font-family: "Source Code Pro", monospace;
+    font-family: "Gentium Book Basic", serif;
     float: none;
     margin: 0;
     padding: 0; }
@@ -1053,39 +1015,14 @@ header hr {
     margin-bottom: 0;
     position: relative;
     display: inline-block;
-    display: table-cell;
-    padding: 0 0 3rem;
+    padding: 0 0 1.5rem;
     overflow: hidden; }
-    .post h1:after,
-    .post h2:after {
-      content: '-------------------------------------------------------------------------------------------------------';
-      position: absolute;
-      bottom: 1.5rem;
-      left: 0;
-      white-space: nowrap; }
-    .post h1 + *,
-    .post h2 + * {
-      margin-top: 0; }
   .post h3,
   .post h4,
   .post h5,
   .post h6 {
     position: relative;
     margin-bottom: 1.5rem; }
-    .post h3:before,
-    .post h4:before,
-    .post h5:before,
-    .post h6:before {
-      content: '## ';
-      display: inline; }
-  .post h3:before {
-    content: '### '; }
-  .post h4:before {
-    content: '#### '; }
-  .post h5:before {
-    content: '##### '; }
-  .post h6:before {
-    content: '###### '; }
 
 .post-title {
   margin-bottom: 1.5rem; }

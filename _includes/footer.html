@@ -2,7 +2,13 @@
 {% capture updated_url %}{{ site.github.repository_url }}/commits{% endcapture %}
 
 <footer row>
-  © {{ 'now' | date: "%Y" }} Mike Powell
   <hr />
-  <time datetime="{{ updated | date_to_xmlschema }}" itemprop="datePublished">Last updated: <a href="{{ updated_url }}">{{ updated }}</a></time>
+  <div grid>
+    <div column>
+      © {{ 'now' | date: "%Y" }} Mike Powell
+    </div>
+    <div column style="text-align: right;">
+      <time datetime="{{ updated | date_to_xmlschema }}" itemprop="datePublished">Last updated: <a href="{{ updated_url }}">{{ updated }}</a></time>
+    </div>
+  </div>
 </footer>

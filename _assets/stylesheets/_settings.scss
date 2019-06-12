@@ -12,11 +12,11 @@ $font-size-secondary: 16;
 $letter-spacing: 0.05em;
 
 // Font families
-$font-primary: 'Source Code Pro', monospace;
-$font-secondary: 'Source Code Pro', monospace;
-$font-mono: 'Source Code Pro', monospace;
-$font-print-primary: 'Source Code Pro', monospace;
-$font-print-secondary: 'Source Code Pro', monospace;
+$font-primary: 'Gentium Book Basic', serif;
+$font-secondary: 'Gentium Book Basic', serif;
+$font-mono: 'Gentium Book Basic', monospace;
+$font-print-primary: 'Times New Roman', serif;
+$font-print-secondary: 'Times New Roman', serif;
 
 // Enable margins to all the elements
 // except the first one in each nesting level
@@ -100,7 +100,7 @@ $breakpoint: --small;
 
 $colors: (
   base: (
-    'primary': #c65146,
+    'primary': #f90404,
     'selection': #ebe1d3,
     'lines': #dcdcdc
   ),

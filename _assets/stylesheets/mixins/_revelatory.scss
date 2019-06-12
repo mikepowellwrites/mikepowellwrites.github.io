@@ -1,7 +1,7 @@
-@mixin markdown-typography {
+@mixin revelatory-typography {
   font-weight: 300;
   font-style: normal;
-  font-family: $font-mono;
+  font-family: $font-primary;
   color: getColor(text, primary);
 
   strong {
@@ -9,7 +9,7 @@
   }
 }
 
-@mixin markdown-headings {
+@mixin revelatory-headings {
   h1,
   h2,
   h3,
@@ -28,21 +28,8 @@
     margin-bottom: 0;
     position: relative;
     display: inline-block;
-    display: table-cell;
-    padding: 0 0 $spacing-m;
+    padding: 0 0 $spacing-s;
     overflow: hidden;
-
-    &:after {
-      content: '-------------------------------------------------------------------------------------------------------';
-      position: absolute;
-      bottom: $spacing-m * 0.5;
-      left: 0;
-      white-space: nowrap;
-    }
-
-    & + * {
-      margin-top: 0;
-    }
   }
 
   h3,
@@ -51,55 +38,21 @@
   h6 {
     position: relative;
     margin-bottom: $spacing-s;
-
-    &:before {
-      content: '## ';
-      display: inline;
-    }
-  }
-
-  h3:before {
-    content: '### ';
-  }
-
-  h4:before {
-    content: '#### ';
-  }
-
-  h5:before {
-    content: '##### ';
-  }
-
-  h6:before {
-    content: '###### ';
   }
 }
 
-@mixin markdown-hr {
+@mixin revelatory-hr {
   hr {
-    position: relative;
-    height: $spacing-m;
-    font-size: 0;
-    line-height: 0;
-    overflow: hidden;
-    border: 0;
-    margin-bottom: $spacing-m;
-    background-color: transparent;
-
-    &:after {
-      content: '======================================================================================================';
-      position: absolute;
-      top: 0;
-      left: 0;
-      font-size: typeScale(1);
-      line-height: 1.25lh;
-      width: 100%;
-      white-space: nowrap;
-    }
+    border: 0px;
+    height: 1px;
+    margin-top: $spacing-s;
+    margin-bottom: $spacing-s;
+    color: getColor(text, primary);
+    background-color: getColor(text, primary);
   }
 }
 
-@mixin markdown-blockquote {
+@mixin revelatory-blockquote {
   blockquote {
     float: none;
     padding-top: 0;
@@ -122,7 +75,7 @@
   }
 }
 
-@mixin markdown-paragraph {
+@mixin revelatory-paragraph {
   word-wrap: break-word;
 
   p {
@@ -134,7 +87,7 @@
   }
 }
 
-@mixin markdown-list {
+@mixin revelatory-list {
   ul,
   ol {
     margin-top: $spacing-m;
