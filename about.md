@@ -1,15 +1,16 @@
 ---
 title: About
-date: 2019-04-01 18:20:00 -0700
-excerpt: My professional life and accomplishments, such as they are.
+date: 2019-04-02T01:20:00.000+00:00
+excerpt: I’m a freelance writer in Tucson, Arizona. I’ve written for a variety of
+  places both print and web, including Grantland, Pitchfork, the Ringer, Rolling Stone,
+  the Oxford American, Vulture/New York and Deadspin.
 layout: post
-menus:
+menu:
   header:
-    title: About
     identifier: about
     weight: 2
----
 
+---
 Hi. My name’s Mike Powell. I’m a freelance writer in Tucson, Arizona. I’ve written for a variety of places both print and web, including Grantland, Pitchfork, the Ringer, Rolling Stone, the Oxford American, Vulture/New York and Deadspin.
 
 As of November, 2016, I will be a columnist on the Paris Review’s website. I used to have a column at Pitchfork called “[Secondhands](https://pitchfork.com/features/secondhands/).” I also write a weekly column for the New York Times called “What You Get,” about real estate listings, and copywriting for Apple Music and iTunes.
