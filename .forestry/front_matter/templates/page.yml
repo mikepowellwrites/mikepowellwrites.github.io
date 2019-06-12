@@ -5,9 +5,11 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
 - type: text
   name: body_class
   label: body_class
+  hidden: true
 - type: text
   name: title
   label: title
