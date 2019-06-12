@@ -4,8 +4,12 @@ layout: default
 
 <article row class="page clearfix">
   <div class="page-content">
-    {{ content }}
     <h2>Recent & favorite writing</h2>
-    {% include posts.html %}
+    {{ content }}
+
+    {% if site.posts.size > 0 %}
+      <h2>Posts</h2>
+      {% include posts.html %}
+    {% endif %}
   </div>
 </article>

@@ -3,7 +3,7 @@
   {% for post in site.posts %}
     <div row class="post-teaser">
       <div class="post-excerpt">
-        {{ post.content | markdownify }}
+        <a href="{{ post.url }}">{{ post.title }}</a>
       </div>
     </div>
   {% endfor %}
