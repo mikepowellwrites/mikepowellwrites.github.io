@@ -21,9 +21,9 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
-- name: layour
+- name: layout
   type: text
   config:
     required: false
-  label: Layour
+  label: Layout
   hidden: true
