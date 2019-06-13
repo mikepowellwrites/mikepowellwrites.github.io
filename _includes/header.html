@@ -1,29 +1,29 @@
 <header row>
-  <hgroup class="masthead">
-    <h2 class="title">
+  <hgroup class="masthead" grid="center">
+    <div class="avatar__wrap" column="2">
+      <img class="avatar" src="{{ site.logo }}" alt="avatar"/>
+    </div>
+    <h2 class="title" column="6">
       <a href="/">{{ site.title }}</a>
     </h2>
-    <ul class="menu">
-      <li class="menu__item">
+    <ul class="menu" column="4" grid="center">
+      <li class="menu__item" column>
         <a href="/" title="Go to Writings">Writings</a>
       </li>
-      <li class="menu__item">
+      <li class="menu__item" column>
         <a href="/about" title="Go to About">About</a>
       </li>
-      <li class="menu__item">
+      <li class="menu__item" column>
         <a href="mailto:revelatory@gmail.com" title="Email Mike Powell">
-          <div style="display: inline-block; height: 35px; width: 35px;"><i class="svg-envelope" style="height: 100%; width: 100%; display: block; background-size: auto 100%;"></i></div>
+          <div class="icon"><i class="svg-envelope"></i></div>
         </a>
       </li>
-      <li class="menu__item">
+      <li class="menu__item" column>
         <a href="https://twitter.com/sternlunch" title="Twitter">
-          <div style="display: inline-block; height: 35px; width: 35px;"><i class="svg-twitter" style="height: 100%; width: 100%; display: block; background-size: auto 100%;"></i></div>
+          <div class="icon"><i class="svg-twitter"></i></div>
         </a>
       </li>
     </ul>
-    <div class="avatar__wrap">
-      <img class="avatar" src="{{ site.logo }}" alt="avatar"/>
-    </div>
   </hgroup>
   <hr />
 </header>
