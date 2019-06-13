@@ -5,20 +5,18 @@ title: Some Writing
 excerpt: Mike Powell writes.
 
 ---
-“[Natural Selection](https://pitchfork.com/features/cover-story/reader/natural-selection/),” a story about the first guy to sell nature sounds as relaxation aids, for Pitchfork (Longform Pick of the Week, 11/5/2016)
+A [short essay for _The New York Times Magazine_](https://www.nytimes.com/column/letter-of-recommendation) about dishwashing (I like it). 
 
-“[Action Figure](http://grantland.com/features/stuntman-hollywood-motion-capture-reuben-langdon/),” a profile of the motion-capture stuntman Reuben Langdon (and a story of faith and technology) for Grantland
+An [archive of columns](https://www.theparisreview.org/blog/tag/zonies/) I wrote for _the Paris Review_ about living in Arizona (I like it). 
 
-“[The Woman Who Froze in Fargo](http://grantland.com/features/kumiko-the-treasure-hunter-fargo/),” a story about a dead girl, her myth, her truth and the line in-between, for Grantland (featured on Longform)
+A [long story](https://pitchfork.com/features/cover-story/reader/natural-selection/) about the first guy to sell nature sounds (or, at least, fabricated nature sounds) as relaxation aids, for Pitchfork. 
 
-“[Seeing Purple](https://pitchfork.com/features/secondhands/9593-seeing-purple-prince-in-the-80s/),” an essay about Prince, Bugs Bunny, and the sexual dawn of boys
+A [long exploration of meditation apps](https://www.theringer.com/tech/2018/10/25/18010314/meditation-headspace-insight-timer-apps) and a few good zen stories, for the Ringer. 
 
-“[The Band Leader](http://grantland.com/features/ariel-rechtshaid-producer-vampire-weekend-haim-sky-ferreira-snoop-lion-justin-bieber/),” a profile of the producer Ariel Rechtshaid for Grantland
+A [profile of a motion-capture stuntman](http://grantland.com/features/stuntman-hollywood-motion-capture-reuben-langdon/) who also loves aliens, for Grantland. 
 
-“[The Many Man-Children of Todd Phillips](https://www.theringer.com/2016/8/16/16077376/todd-phillips-old-school-hangover-war-dogs-e3971504004e),” on the Hangover director, for the Ringer
+A story about a Japanese woman found dead in the upper midwest, and [how her narrative played out in fiction and documentary](http://grantland.com/features/kumiko-the-treasure-hunter-fargo/), for Grantland. 
 
-“[Astral Years](https://pitchfork.com/features/secondhands/9205-van-morrisons-astral-weeks/),” a feature on Van Morrison's Astral Weeks for Pitchfork
+A [profile](http://grantland.com/features/ariel-rechtshaid-producer-vampire-weekend-haim-sky-ferreira-snoop-lion-justin-bieber/) of a novel, unconventional record producer named Ariel Rechtshaid, for Grantland. 
 
-Reflections on a documentary about the American enterprise known as [Metallica](https://theconcourse.deadspin.com/how-did-metallica-ever-survive-some-kind-of-monster-1603222314)
-
-Lastly, for emphasis, [a meditation on train horns](https://theconcourse.deadspin.com/train-horns-that-keep-my-wife-and-i-awake-at-night-ran-1686084634)
+And because I lost so much sleep over them, [a meditation on train horns](https://theconcourse.deadspin.com/train-horns-that-keep-my-wife-and-i-awake-at-night-ran-1686084634) that blow in my neighborhood.  
