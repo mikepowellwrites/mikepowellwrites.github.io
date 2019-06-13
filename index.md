@@ -1,10 +1,10 @@
 ---
 layout: index
 body_class: body--homepage
-title: Writings
+title: Some Writing
 excerpt: Mike Powell writes.
----
 
+---
 “[Natural Selection](https://pitchfork.com/features/cover-story/reader/natural-selection/),” a story about the first guy to sell nature sounds as relaxation aids, for Pitchfork (Longform Pick of the Week, 11/5/2016)
 
 “[Action Figure](http://grantland.com/features/stuntman-hollywood-motion-capture-reuben-langdon/),” a profile of the motion-capture stuntman Reuben Langdon (and a story of faith and technology) for Grantland
