@@ -6,8 +6,8 @@ excerpt: I’m a freelance writer in Tucson, Arizona. I’ve written for a varie
   the Oxford American, Vulture/New York and Deadspin.
 
 ---
-Hi. My name’s Mike Powell. I live in Tucson, Arizona. I’ve written for a variety of places print and web, including the New York Times Magazine, the Paris Review, Grantland, Pitchfork, the Ringer, Rolling Stone, the Oxford American, Vulture/New York and Deadspin.
+Hi. My name is Mike Powell. I live in Tucson, Arizona. I’ve written for a variety of places print and web, including the New York Times Magazine, the Paris Review, Grantland, Pitchfork, the Ringer, the Oxford American, Vulture/New York and Deadspin.
 
-[Here](https://twitter.com/sternlunch) is my Twitter page. My email address is [revelatory@gmail.com](mailto:revelatory@gmail.com). Here is a picture of me thinking about my son.
+[Here](https://twitter.com/sternlunch) is my Twitter page. My email address is [revelatory@gmail.com](mailto:revelatory@gmail.com).
 
 ![]({{ site.baseurl }}/uploads/images/mike-beard.jpg)
