@@ -1,4 +1,8 @@
 header {
+  hgroup {
+    padding: 0.5lh 0;
+  }
+
   .masthead {
     @include clearfix;
   }
@@ -24,12 +28,13 @@ header {
   }
 
   .menu {
-    display: inline-block;
     list-style: none;
   }
 
   .menu__item {
-    display: inline;
+    font-size: typeScale(3);
+    line-height: 1.5lh;
+    display: inline-block;
   }
 
   hr {

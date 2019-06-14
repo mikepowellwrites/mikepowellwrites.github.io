@@ -1,6 +1,8 @@
 .page {
   @include revelatory-paragraph();
-  @include revelatory-blockquote();
-  @include revelatory-list();
   @include revelatory-headings();
+}
+
+.page-content {
+  font-size: typeScale(3);
 }
