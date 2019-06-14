@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: homepage
 title: Recent & favorite writing
 ---
 
