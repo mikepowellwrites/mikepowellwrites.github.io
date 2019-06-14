@@ -3,8 +3,10 @@ layout: index
 body_class: body--homepage
 title: Some Writing
 excerpt: Mike Powell writes.
-
 ---
+
+## Recent & favorite writing
+
 A [short essay for _The New York Times Magazine_](https://www.nytimes.com/2019/06/04/magazine/letter-of-recommendation-washing-dishes.html) about dishwashing (I like it).
 
 An [archive of columns](https://www.theparisreview.org/blog/tag/zonies/) I wrote for _the Paris Review_ about living in Arizona (I like it).
