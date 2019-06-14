@@ -1,11 +1,7 @@
 ---
 layout: index
-body_class: body--homepage
-title: Some Writing
-excerpt: Mike Powell writes.
+title: Recent & favorite writing
 ---
-
-## Recent & favorite writing
 
 A [short essay for _The New York Times Magazine_](https://www.nytimes.com/2019/06/04/magazine/letter-of-recommendation-washing-dishes.html) about dishwashing (I like it).
 
