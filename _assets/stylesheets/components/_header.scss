@@ -4,27 +4,21 @@ header {
   }
 
   .masthead {
-    @include clearfix;
-  }
+    align-items: flex-start;
 
-  .title,
-  .avatar__wrap {
-    font-family: $font-primary;
-    display: block;
-    width: 100%;
+    @media (--medium) {
+      align-items: center;
+    }
   }
 
   .title {
+    font-family: $font-primary;
     font-size: typeScale(8);
 
     a,
     a:hover {
       color: getColor(text, heading);
     }
-  }
-
-  .avatar__wrap {
-    text-align: center;
   }
 
   .menu {
@@ -39,17 +33,5 @@ header {
 
   hr {
     margin: 0;
-  }
-
-  @media (--medium) {
-    .title,
-    .avatar__wrap {
-      display: inline-block;
-      width: auto;
-    }
-
-    .avatar {
-      margin: 1.8rem 1rem;
-    }
   }
 }

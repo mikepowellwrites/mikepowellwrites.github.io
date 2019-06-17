@@ -75,7 +75,7 @@ $scale-ratio-secondary: $_perfect-fourth;
 $enable-grid: true;
 
 // Enable x-*, sm-*, md-*, lg-*, xl-* columns and offsets
-$full-grid: false;
+$full-grid: true;
 
 // Max width for container
 $container-width: 960px;
@@ -90,7 +90,7 @@ $num-columns: 12;
 $prefix: '';
 
 // Create columns and offsets above this breakpoint
-$breakpoint: --small;
+$breakpoint: --medium;
 
 //
 // Color Palette
