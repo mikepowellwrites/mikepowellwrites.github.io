@@ -7,4 +7,4 @@ My name's Mike Powell. I live in Tucson, Arizona. I’ve written for the New Yor
 
 [Here](https://twitter.com/sternlunch) is my Twitter page. My email address is [revelatory@gmail.com](mailto:revelatory@gmail.com). I'll respond if you write.
 
-![]({{ site.baseurl }}/uploads/images/self portrait.png)
+![](/uploads/images/mike-beard.jpg)
