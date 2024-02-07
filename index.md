@@ -17,4 +17,4 @@ A story about a Japanese woman found dead in the Upper Midwest, and [how her nar
 
 A [profile](http://grantland.com/features/ariel-rechtshaid-producer-vampire-weekend-haim-sky-ferreira-snoop-lion-justin-bieber/) of a brilliant and unconventional record producer named Ariel Rechtshaid, for Grantland.
 
-And because I lost so much sleep over them, [a meditation on train horns](https://theconcourse.deadspin.com/train-horns-that-keep-my-wife-and-i-awake-at-night-ran-1686084634) that blow in my neighborhood!
+And because I lost so much sleep over them, [a meditation on train horns](https://theconcourse.deadspin.com/train-horns-that-keep-my-wife-and-i-awake-at-night-ran-1686084634) that blow in my neighborhood.
