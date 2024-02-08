@@ -8,9 +8,9 @@ I've also written hundreds of reviews and features for the long-running, ASME-no
 
 Most of my working hours these days are at Apple's streaming-music service, Apple Music, whose tone and character I have helped shape through the design and writing of album notes, features, playlist and banner copy, CTAs and the like, often incorporating expectations from corporate and design teams alongside editorial initiatives. I live in Tucson, Arizona.
 
-## Selected Works
+## Selected Work
 
-Here are some examples of feature work I've conceptualized and written for Apple Music: 
+Here are some examples of features I've conceptualized and written for Apple Music: 
 
 About the [history and legacy of hip-hop producers](https://music.apple.com/us/multi-room/6446378801) and [MCs](https://music.apple.com/us/multi-room/6446378857). Or [The Beatles](https://music.apple.com/us/multi-room/1651468217). Or [Frank Ocean](https://music.apple.com/us/multi-room/1632462027). 
 
