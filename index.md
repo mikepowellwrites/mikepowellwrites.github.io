@@ -9,6 +9,7 @@ I've also written hundreds of reviews and features for the long-running, ASME-no
 Most of my working hours these days are at Apple's streaming-music service, Apple Music, whose tone and character I have helped shape through the design and writing of album notes, features, playlist and banner copy, CTAs and the like, often incorporating expectations from corporate and design teams alongside editorial initiatives. I live in Tucson, Arizona.
 
 
+
 ## Selected Work
 
 Here are some examples of features I've conceptualized and written for Apple Music: 
