@@ -27,4 +27,4 @@ A [profile](http://grantland.com/features/ariel-rechtshaid-producer-vampire-week
 
 And because I lost so much sleep over them, [a meditation on train horns](https://theconcourse.deadspin.com/train-horns-that-keep-my-wife-and-i-awake-at-night-ran-1686084634) that blow in my neighborhood.
 
-Do you want to talk about your favorite contemporary American hardcore? Soto Zen? The unyielding challenges - and incomparable rewards - of parenting? Work? These are some subjects I am invested in. Please feel free to [email me](mailto:revelatory@gmail.com).
+Do you want to talk about contemporary American hardcore? Soto Zen? The unyielding challenges - and incomparable rewards - of parenting? Work? These are some subjects I am invested in. Please feel free to [email me](mailto:revelatory@gmail.com).
