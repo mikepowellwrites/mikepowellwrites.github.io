@@ -18,7 +18,7 @@ An [archive of columns](https://www.theparisreview.org/blog/tag/zonies/) I wrote
 
 A [long story](https://pitchfork.com/features/cover-story/reader/natural-selection/) about the first guy to sell nature sounds (or, at least, fabricated nature sounds) as relaxation aids, for Pitchfork.
 
-A [long exploration of meditation apps](https://www.theringer.com/tech/2018/10/25/18010314/meditation-headspace-insight-timer-apps) and some Zen stories, for the Ringer.
+A [long exploration of meditation apps](https://www.theringer.com/tech/2018/10/25/18010314/meditation-headspace-insight-timer-apps) for the Ringer.
 
 A [profile](http://grantland.com/features/ariel-rechtshaid-producer-vampire-weekend-haim-sky-ferreira-snoop-lion-justin-bieber/) of a brilliant and unconventional record producer named Ariel Rechtshaid, for Grantland.
 
