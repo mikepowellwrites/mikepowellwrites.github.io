@@ -4,11 +4,7 @@ header {
   }
 
   .masthead {
-    align-items: flex-start;
-
-    @media (--medium) {
-      align-items: center;
-    }
+    align-items: center;
   }
 
   .title {
@@ -29,6 +25,7 @@ header {
     font-size: typeScale(3);
     line-height: 1.5lh;
     display: inline-block;
+    text-align: right;
   }
 
   hr {
