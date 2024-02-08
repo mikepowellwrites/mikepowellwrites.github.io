@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-My name's Mike Powell. I’m a freelance writer and copywriter with 20 years of paid experience at corporate environments like the The New York Times and Apple down to literary nonprofits and small galleries. I’ve written essays and reported features for _The New York Times Magazine_, The Ringer, _The Paris Review_, _Oxford American_, and dozens of other publications on subjects ranging from [the joys of dishwashing](https://www.nytimes.com/2019/06/04/magazine/letter-of-recommendation-washing-dishes.html) to the state of Hollywood stuntwork in the era of [motion-capture animation](http://grantland.com/features/stuntman-hollywood-motion-capture-reuben-langdon/) . 
+My name's Mike Powell. I’m a freelance writer and copywriter with 20 years of paid experience at corporate environments like the The New York Times and Apple down to literary nonprofits and small galleries. I’ve written essays and reported features for _The New York Times Magazine_, The Ringer, _The Paris Review_, _Oxford American_, and dozens of other publications on subjects ranging from [the joys of dishwashing](https://www.nytimes.com/2019/06/04/magazine/letter-of-recommendation-washing-dishes.html) to the state of Hollywood stuntwork in the era of [motion-capture animation](http://grantland.com/features/stuntman-hollywood-motion-capture-reuben-langdon/). 
 
 I've also written hundreds of reviews and features for the long-running, ASME-nominated music site Pitchfork, all of which you can find [here](https://pitchfork.com/staff/mike-powell/). 
 
