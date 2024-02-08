@@ -30,6 +30,12 @@
     color: getColor(text, primary);
     background-color: getColor(text, primary);
   }
+
+  header {
+    hr {
+      margin-top: 0;
+    }
+  }
 }
 
 @mixin revelatory-paragraph {
