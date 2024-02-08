@@ -14,7 +14,7 @@ Most of my working hours these days are at Apple's streaming-music service, Appl
 
 Here are some examples of features I've conceptualized and written for Apple Music: 
 
-About the [history and legacy of hip-hop producers](https://music.apple.com/us/multi-room/6446378801) and [MCs](https://music.apple.com/us/multi-room/6446378857). Or [The Beatles](https://music.apple.com/us/multi-room/1651468217). Or [Frank Ocean](https://music.apple.com/us/multi-room/1632462027). 
+About the [history and legacy of hip-hop producers](https://music.apple.com/us/multi-room/6446378857) and [MCs](https://music.apple.com/us/multi-room/6446378801). Or [The Beatles](https://music.apple.com/us/multi-room/1651468217). Or [Frank Ocean](https://music.apple.com/us/multi-room/1632462027). 
 
 And here's some other work I'm proud of: 
 
