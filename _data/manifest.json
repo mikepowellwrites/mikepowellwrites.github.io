@@ -1,15 +1,13 @@
 {
-  "assets/images/avatar.png": "312bfbaf76468de9de4be71827d3fc8d",
-  "assets/images/default-apple-touch-icon-180x180.png": "f96c8ab06751281647bbeebf4023d59b",
-  "assets/images/default-favicon-192x192.png": "ef8f113031f4cfc723a2a04779405467",
-  "assets/images/default-favicon.ico": "90191c0776b6a297d5b59b865dbf04e6",
-  "assets/images/envelope.svg": "b6a02a93db49b3c33a3be60a35244636",
-  "assets/images/slush-gh-pages.png": "a545deeda84df5370434fbc1ba81845c",
-  "assets/images/twitter.svg": "9057bf93e3c0deb114097b5b8338c094",
-  "assets/javascripts/scripts.js": "84f44964be175ed6099203d7b4fb3438",
-  "assets/javascripts/scripts.js.map": "95a6d300cc059777b25d9405252e668a",
-  "assets/stylesheets/sprite.css": "1030d1e5743f767fa6efd5c200ee5bd8",
-  "assets/stylesheets/sprite.css.html": "3d3aafde18c4bcfc608bbc81b3845e13",
-  "assets/stylesheets/styles.css": "910fd19e3e6a36aa9f173ddc378bb43b",
-  "assets/stylesheets/styles.css.map": "811c68fb780b3b1b2ca889fd1ceb1bcb"
+  "assets/images/android-chrome-96x96.png": "d1c4739c2c0d537e113947620361a58d759ea837ee92feacd1640ceb50c42c798de9e1b6d90d5be96fe7c5b713be1c87f52bb2ccf811de5e61374517dcccd858",
+  "assets/images/apple-touch-icon.png": "efc6f23729ffbbc8a736ca18c85aaa0cd1e8dbad504cdada8c4e88d1c880ce178787c93a58af78e56453ade9450d351be8d69629f09f637eab766074c686fd2d",
+  "assets/images/avatar.png": "1df97d5eb61a288c163649062aef01e85cff66fc0bebce2e7ff2052c2213b485af3584a01add8f97f466e2ad5f80b5b61ee2a451343bfcc08003f272a707e571",
+  "assets/images/envelope.svg": "de00afa499676868fec2758ab9033fbcbc87c1a6ec4be3257c0e9fe267bd44edccde0a8a63f95290d0a6f1953b97d19c3d74f2914c4f9faa770496a9b0ad43e5",
+  "assets/images/favicon-192x192.png": "298526fb956bdcf991fb7610ddd50063dbe3d08672375ba2e1558f408912c70080122276955a615d91a0edf217b658ce84766efffe4941c055e832ec89cedf6e",
+  "assets/images/favicon.ico": "ac48866a5a0d7c639e85d7c8963cb9a9c568a717e765afdda5412ea1581f06f41a7618c31c2826de141ee452f95dbbeb00c54ee06586b05b1ea2bd9b4227be07",
+  "assets/images/twitter.svg": "98db3846f657d909069dce489c999b8108c23e49670e093aa54ab8f1cecf349da22310a56fb071fed946d4e5aaa218fb386e7b4533c3e4bb4e20c6331171b055",
+  "assets/javascripts/scripts.js": "5fb302e34bb74c8dca677f1e6be8bd9adb8e2e4ca7ea2de64b86a8edacaaa69a3c892ca8d71ed816877431613db8c1b73d46a76ee83e80e19f70786593732f5a",
+  "assets/javascripts/scripts.js.map": "a2a06017440ac250d1a938e5ef8d6f0e35a49d4c607ba7b16e586d186b0b20cf750ba5abc437639fcf5bf93a926e4ac9f13aefcf1600e5e9b7a4a8966ea30cf3",
+  "assets/stylesheets/sprite.css": "ddcd188278faf8b06482708eda93cf0b1bf32beff780e0231ce47cdd12d096b7180bf4eba9a7b49ecd8d90e2dd0ed6ce877c267132350542245e0ad25c7e7f15",
+  "assets/stylesheets/styles.css": "8732ed16a290e5a41c71706f34d6467886a1babd8cf84d9c84a7e8b1f3e7dc75e62530e9028d757eecc0cce7cc7e0dbdab06c3c5878ba0d6571221ffb7d4a607"
 }

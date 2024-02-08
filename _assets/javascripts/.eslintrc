@@ -1,7 +1,0 @@
-{
-  "extends": ["xo-space/esnext", "prettier"],
-  "plugins": ["prettier"],
-  "env": {
-    "browser": true
-  }
-}

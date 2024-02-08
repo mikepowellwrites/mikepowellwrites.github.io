@@ -1,11 +1,8 @@
-const resolve = require('rollup-plugin-node-resolve');
-const commonjs = require('rollup-plugin-commonjs');
-const { uglify } = require('rollup-plugin-uglify');
-const babel = require('rollup-plugin-babel');
+const resolve = require('@rollup/plugin-node-resolve');
+const commonjs = require('@rollup/plugin-commonjs');
+const babel = require('@rollup/plugin-babel');
 
-const production = process.env.NODE_ENV === 'production';
-
-export default {
+module.exports = {
   input: '_assets/javascripts/main.js',
   output: {
     file: 'assets/javascripts/scripts.js',
@@ -17,7 +14,6 @@ export default {
       exclude: 'node_modules/**'
     }),
     resolve(),
-    commonjs(),
-    production && uglify()
+    commonjs()
   ]
 };
