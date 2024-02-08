@@ -10,7 +10,7 @@ Here are some examples of feature work I've conceptualized and written for Apple
 
 About the [history and legacy of hip-hop producers](https://music.apple.com/us/multi-room/6446378801) and [MCs](https://music.apple.com/us/multi-room/6446378857). Or [The Beatles](https://music.apple.com/us/multi-room/1651468217). Or [Frank Ocean](https://music.apple.com/us/multi-room/1632462027). 
 
-And here's some other work I'm proud of. 
+And here's some other work I'm proud of: 
 
 A [short essay for _The New York Times Magazine_](https://www.nytimes.com/2019/06/04/magazine/letter-of-recommendation-washing-dishes.html) about dishwashing.
 
@@ -26,4 +26,4 @@ A [profile](http://grantland.com/features/ariel-rechtshaid-producer-vampire-week
 
 And because I lost so much sleep over them, [a meditation on train horns](https://theconcourse.deadspin.com/train-horns-that-keep-my-wife-and-i-awake-at-night-ran-1686084634) that blow in my neighborhood.
 
-Do you want to talk about contemporary American hardcore? Soto Zen? The unyielding challenges and incomparable rewards of parenting? Work?! Please feel free to [email me](mailto:revelatory@gmail.com).
+Do you want to talk about your favorite contemporary American hardcore? Soto Zen? The unyielding challenges - and incomparable rewards - of parenting? Work? Please feel free to [email me](mailto:revelatory@gmail.com).
