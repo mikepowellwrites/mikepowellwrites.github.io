@@ -2,9 +2,13 @@
 layout: homepage
 ---
 
-A few examples of feature work I've conceptualized and written for Apple Music: 
+My name's Mike Powell. I’m a freelance writer and copywriter with 20 years of paid experience at big, corporate environments like the The New York Times and Apple down to literary nonprofits and small galleries. I’ve written essays and reported features for _The New York Times Magazine_, The Ringer, _The Paris Review_, _Oxford American_, and dozens of other publications on subjects ranging from the joys of dishwashing to the state of Hollywood stuntwork in the era of motion-capture animation. I've also written hundreds of reviews and features for the long-running, ASME-nominated music site Pitchfork, all of which you can find [here](https://pitchfork.com/staff/mike-powell/). 
 
-About [The Beatles] (https://music.apple.com/us/multi-room/1651468217). Or [Frank Ocean](https://music.apple.com/us/multi-room/1632462027). Or [the Oscars] (https://music.apple.com/us/multi-room/1613787330). 
+Most of my working hours these days are at Apple's streaming-music service, Apple Music, whose tone and character I have helped shape through the design and writing of album notes, features, playlist and banner copy, CTAs and the like, often incorporating expectations from corporate and design teams alongside editorial initiatives. I live in Tucson, Arizona.
+
+Here are some examples of feature work I've conceptualized and written for Apple Music: 
+
+About the [history and legacy of hip-hop producers] (https://music.apple.com/us/multi-room/6446378801) and [MCs] (https://music.apple.com/us/multi-room/6446378857). Or [The Beatles] (https://music.apple.com/us/multi-room/1651468217). Or [Frank Ocean](https://music.apple.com/us/multi-room/1632462027). 
 
 And here's some other work I'm proud of. 
 
@@ -22,4 +26,4 @@ A [profile](http://grantland.com/features/ariel-rechtshaid-producer-vampire-week
 
 And because I lost so much sleep over them, [a meditation on train horns](https://theconcourse.deadspin.com/train-horns-that-keep-my-wife-and-i-awake-at-night-ran-1686084634) that blow in my neighborhood.
 
-Do you want to talk about contemporary American hardcore? Soto Zen? The unyielding challenges - and incomparable rewards - of parenting? Work?! Please feel free to email me.
+Do you want to talk about contemporary American hardcore? Soto Zen? The unyielding challenges and incomparable rewards of parenting? Work?! Please feel free to [email me](mailto:revelatory@gmail.com).
