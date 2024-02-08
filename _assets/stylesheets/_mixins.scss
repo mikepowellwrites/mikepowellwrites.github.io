@@ -1,1 +1,45 @@
-@import 'mixins/revelatory';
+@mixin revelatory-typography {
+  font-weight: 300;
+  font-style: normal;
+  font-family: $font-primary;
+  color: getColor(text, primary);
+
+  strong {
+    font-weight: bold;
+  }
+}
+
+@mixin revelatory-headings {
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: $font-primary;
+  }
+}
+
+@mixin revelatory-hr {
+  hr {
+    border: 0;
+    height: 1px;
+    margin-top: $spacing-s;
+    margin-bottom: $spacing-s;
+    color: getColor(text, primary);
+    background-color: getColor(text, primary);
+  }
+}
+
+@mixin revelatory-paragraph {
+  word-wrap: break-word;
+
+  p {
+    font-size: typeScale(3);
+
+    img {
+      max-width: 100%;
+    }
+  }
+}

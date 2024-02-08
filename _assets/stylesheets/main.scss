@@ -15,5 +15,77 @@
 
 // Custom styles
 @import 'mixins';
-@import 'components';
-@import 'pages';
+
+header {
+  hgroup {
+    padding: 0.5lh 0;
+  }
+
+  .masthead {
+    align-items: center;
+  }
+
+  .title {
+    font-family: $font-primary;
+    font-size: typeScale(8);
+
+    a,
+    a:hover {
+      color: getColor(text, heading);
+    }
+  }
+
+  .menu {
+    list-style: none;
+  }
+
+  .menu__item {
+    font-size: typeScale(3);
+    line-height: 1.5lh;
+    display: inline-block;
+    text-align: right;
+  }
+
+  hr {
+    margin: 0;
+  }
+}
+
+body {
+  @include revelatory-typography();
+  @include revelatory-hr();
+
+  .icon {
+    display: inline-block;
+    height: 1lh;
+    width: 1lh;
+
+    >i {
+      height: 100%;
+      width: 100%;
+      display: block;
+      background-size: auto 100%;
+    }
+  }
+}
+
+footer {
+  padding: 1lh 0;
+}
+
+.avatar {
+  height: typeScale(11);
+  width: auto;
+  border-radius: 50%;
+}
+
+.page {
+  @include revelatory-paragraph();
+  @include revelatory-headings();
+}
+
+.body--homepage {
+  .page-content {
+    font-size: typeScale(3);
+  }
+}
