@@ -14,7 +14,11 @@ layout: compress
   <body {% if page.body_class %}class="{{ page.body_class }}"{% endif %}>
     <div container class="container wrapper">
       <section id="content">
-        {{ content }}
+        <article row class="page clearfix">
+          <div class="page-content _ts3">
+            {{ content }}
+          </div>
+        </article>        
       </section>
     </div>
     {% include scripts.html %}
