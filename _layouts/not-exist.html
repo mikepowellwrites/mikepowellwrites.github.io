@@ -1,0 +1,22 @@
+---
+layout: compress
+---
+
+{% include utils/base_path %}
+{% include utils/base_url %}
+
+<!doctype html>
+<html>
+  <head>
+    {% include head.html %}
+    {% seo %}
+  </head>
+  <body {% if page.body_class %}class="{{ page.body_class }}"{% endif %}>
+    <div container class="container wrapper">
+      <section id="content">
+        {{ content }}
+      </section>
+    </div>
+    {% include scripts.html %}
+  </body>
+</html>
