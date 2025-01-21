@@ -1,5 +1,5 @@
 ---
-layout: homepage
+layout: not-exist
 ---
 
 My name's Mike Powell. I’m a freelance writer and copywriter with 20 years of paid experience at corporate environments like the The New York Times and Apple down to literary nonprofits and small art galleries. 
